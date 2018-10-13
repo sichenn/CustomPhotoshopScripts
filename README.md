@@ -18,6 +18,7 @@ Click on "Clone or download" and then "Download ZIP". Copy the files with extens
 * **Windows**: C:\Program Files\Adobe\Your photoshop version\Presets\Scripts
 * **Mac**: Applications > Your photoshop version > Presets > Scripts
 * (If you installed PS elsewhere you can place the script under: PathToPhotoshop\Your photoshop version\Preset\Scripts)
+
 At last, restart Photoshop and the scripts should be loaded d=====(￣▽￣*)b
 
 # **Usage**
