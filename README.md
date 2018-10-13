@@ -15,8 +15,8 @@ The script now only support PNG24 output mode (which should fit most use cases)
 # **Installation**
 
 Click on "Clone or download" and then "Download ZIP". Copy the files with extension ".jsx" and place them under your Photoshop's Script folder.
-* Windows: C:\Program Files\Adobe\Your photoshop version\Presets\Scripts
-* Mac: Applications > Your photoshop version > Presets > Scripts
+* **Windows**: C:\Program Files\Adobe\Your photoshop version\Presets\Scripts
+* **Mac**: Applications > Your photoshop version > Presets > Scripts
 * (If you installed PS elsewhere you can place the script under: PathToPhotoshop\Your photoshop version\Preset\Scripts)
 At last, restart Photoshop and the scripts should be loaded d=====(￣▽￣*)b
 
